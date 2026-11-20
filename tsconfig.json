@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "strict": false,
+    "noImplicitAny": false,
+    "types": [
+      "node",
+      "@playwright/test"
+    ],
+    "skipLibCheck": true
+  },
+  "include": [
+    "pages/**/*",
+    "tests/**/*",
+    "api/**/*"
+  ]
+}

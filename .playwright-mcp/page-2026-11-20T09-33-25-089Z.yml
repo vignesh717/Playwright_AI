@@ -1,0 +1,57 @@
+- generic [ref=e208]:
+  - navigation [ref=e210]:
+    - generic [ref=e212]:
+      - link "Automation Automation Practice":
+        - /url: ""
+        - generic [ref=e213] [cursor=pointer]:
+          - heading "Automation" [level=3] [ref=e214]
+          - paragraph [ref=e215]: Automation Practice
+    - text: 
+    - link "🎯 I'll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e216] [cursor=pointer]:
+      - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+    - list [ref=e217]:
+      - listitem [ref=e218] [cursor=pointer]:
+        - button " HOME" [ref=e219]:
+          - generic [ref=e220]: 
+          - text: HOME
+      - listitem
+      - listitem [ref=e221] [cursor=pointer]:
+        - button " ORDERS" [ref=e222]:
+          - generic [ref=e223]: 
+          - text: ORDERS
+      - listitem [ref=e224] [cursor=pointer]:
+        - button " Cart 1" [ref=e225]:
+          - generic [ref=e226]: 
+          - text: Cart
+          - generic [ref=e227]: "1"
+      - listitem [ref=e228] [cursor=pointer]:
+        - button "Sign Out" [ref=e229]:
+          - generic [aria-hidden] [ref=e230]: 
+          - text: Sign Out
+  - generic [ref=e231]:
+    - generic [ref=e232]:
+      - heading "My Cart" [level=1] [ref=e233]
+      - button "Continue Shopping❯" [ref=e234] [cursor=pointer]
+    - list [ref=e236]:
+      - listitem [ref=e237] [cursor=pointer]:
+        - generic [ref=e238]:
+          - generic [ref=e239]:
+            - paragraph [ref=e240]: "#6960eae1c941646b7a8b3ed3"
+            - heading "ADIDAS ORIGINAL" [level=3] [ref=e241]
+            - paragraph [ref=e242]: MRP $ 11500
+            - paragraph [ref=e243]: In Stock
+          - paragraph [ref=e245]: $ 11500
+          - generic [ref=e246]:
+            - button "Buy Now❯" [ref=e247]
+            - button "❯" [ref=e248]:
+              - generic [aria-hidden] [ref=e249]: 
+              - text: ❯
+    - list [ref=e251]:
+      - listitem [ref=e252]:
+        - generic [ref=e253]: Subtotal
+        - generic [ref=e254]: $11500
+      - listitem [ref=e255]:
+        - generic [ref=e256]: Total
+        - generic [ref=e257]: $11500
+      - listitem [ref=e258]:
+        - button "Checkout❯" [ref=e259] [cursor=pointer]
