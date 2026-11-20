@@ -1,5 +1,9 @@
 {
   "name": "playwright_ai",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
   "devDependencies": {
     "@playwright/test": "^1.65.1",
     "@types/node": "^25.9.1",
